@@ -5,6 +5,11 @@
 ```
 echo "Hello Africa!";
 ```
-
+- [x] step 0, Welcome
+- [x] step 1, Add headers
+- [x] step 2, Add an image
+- [x] step 3, Add a code example
+- [ ] step 4, Make a task list
+- [ ] step 5, Merge your pull request
 
 Added a h1 header to the file
